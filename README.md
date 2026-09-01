@@ -1,4 +1,5 @@
-# St Andrew's Information Request
+# Program Files Archive
+This repo was originally a response to a St Andrew's Information Request for second year entry  
 Each folder contains program files, each with their own readmes, providing the following information:  
 Programming language(s) used  
 Purpose of code (main functionality)  
